@@ -2,7 +2,7 @@
 
 As a data enthusiast with a strong educational foundation in data management and statistics, I thrive on crafting data-driven stories. Drawing from my experience writing short stories for the Vertigo Literary Magazine, I understand the power of storytelling in its many forms. Proficient in Python and SQL, I unravel insights from complex datasets and bring them to life through impactful visualizations. With a passion for problem-solving and effective communication, I'm excited to engage with innovative teams and contribute to data-driven decision-making.
 
-Hard skills: Python, SQL, Excel, Java, Tableau
+Hard skills: Python, SQL, Excel, Tableau, Java
 
 Phone: (669) 226-8294
 
@@ -45,10 +45,10 @@ GPA: 3.83
 ## Projects
 - **Michelin-Awarded Restaurants Around the World** - [Dashboard](https://public.tableau.com/views/Michelin-AwardedRestaurantsAroundtheWorld/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
   - *August 2023 - September 2023*
-  - Used data derived from previous project to produce a dashboard in Tableau, allowing food tourists with preferences for price and award level to find Michelin-awarded restaurants across the globe.
+  - Used data derived from previous project to produce a dashboard in Tableau, allowing food tourists with preferences for price and award level to find Michelin-awarded restaurants across the globe
 - **Michelin-Awarded Restaurants** - Exploratory Data Analysis
   - *July 2023 - September 2023*
-  - Cleaned data on Michelin-awarded restaurants and analyzed trends in award and price distribution across countries, cuisines, and cultures.
+  - Cleaned data on Michelin-awarded restaurants and analyzed trends in award and price distribution across countries, cuisines, and cultures
 - **Food.com Recipes** - [Multi-Class Classification Model](https://ethanslin.github.io/Nutritional-Score-Classification/)
   - *Mar 2023*
   - Developed a classification model that predicts the nutritional score of recipes
