@@ -43,7 +43,7 @@ GPA: 3.83
   - Attended multiple workshops to give and receive creative input on drafts
  
 ## Projects
-- **Michelin-Awarded Restaurants Around the World** - [Dashboard](#michelin-dashboard)
+- **Michelin-Awarded Restaurants Around the World** - [Dashboard](https://public.tableau.com/views/Michelin-AwardedRestaurantsAroundtheWorld/ExecutiveOverview?:language=en-US&:display_count=n&:origin=viz_share_link)
   - *August 2023 - September 2023*
   - Used data derived from previous project to produce a dashboard in Tableau, allowing food tourists with preferences for price and award level to find Michelin-awarded restaurants across the globe.
 - **Michelin-Awarded Restaurants** - Exploratory Data Analysis
@@ -72,6 +72,3 @@ architecture
   - Mathematical data analysis and modeling, graph theory, and algorithmic solutions
 - **Data Structures/Algorithms for Data Science (B+)**
   - Encapsulation, ADT’s, interfaces, algorithms, complexity, and structures in Java
-
-### Michelin Dashboard
-<div class='tableauPlaceholder' id='viz1693799974217' style='position: relative'><noscript><a href='#'><img alt='Executive Overview ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;Michelin-AwardedRestaurantsAroundtheWorld&#47;ExecutiveOverview&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Michelin-AwardedRestaurantsAroundtheWorld&#47;ExecutiveOverview' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mi&#47;Michelin-AwardedRestaurantsAroundtheWorld&#47;ExecutiveOverview&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1693799974217');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='1627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='1627px';} else { vizElement.style.width='100%';vizElement.style.height='1777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
