@@ -49,16 +49,12 @@ GPA: 3.83
 - **Michelin-Awarded Restaurants** - Exploratory Data Analysis
   - *July 2023 - September 2023*
   - Cleaned data on Michelin-awarded restaurants and analyzed trends in award and price distribution across countries, cuisines, and cultures.
-- **Food.com Recipes** - Multi-Class Classification Model
+- **Food.com Recipes** - [Multi-Class Classification Model](https://ethanslin.github.io/Nutritional-Score-Classification/)
   - *Mar 2023*
   - Developed a classification model that predicts the nutritional score of recipes
-- **Food.com Recipes** - Statistical Data Analysis
+- **Food.com Recipes** - [Statistical Data Analysis](https://ethanslin.github.io/Comfort-Food-Bias-Analysis/)
   - *Feb 2023*
   - Conducted EDA and statistical tests on a recipe dataset, assessing if unhealthy “comfort food” recipes are rated more highly than healthy recipes
-- **Pokemon Names and Power** - Text Analysis
-  - *Oct 2021 - Dec 2021*
-  - Performed an analysis of the correlation between the complexity of Pokemon names and power
-
 
 ## Courses
 - **Introduction to Data Management (A+)**
