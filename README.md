@@ -2,7 +2,7 @@
 
 As a data enthusiast with a strong educational foundation in data management and statistics, I thrive on crafting data-driven stories. Drawing from my experience writing short stories for the Vertigo Literary Magazine, I understand the power of storytelling in its many forms. Proficient in Python and SQL, I unravel insights from complex datasets and bring them to life through impactful visualizations. With a passion for problem-solving and effective communication, I'm excited to engage with innovative teams and contribute to data-driven decision-making.
 
-Hard skills: Python, SQL, Excel, Tableau, Java
+Hard skills: Python, SQL, Tableau, Excel, Java
 
 Phone: (669) 226-8294
 
@@ -62,9 +62,11 @@ GPA: 3.83
 architecture
 - **Econometrics A (A+)**
   - Probability, sampling theory, and statistical inference with Excel
+  - Top 4% of the class
 - **Practice and Application of Data Science (A)**
   - Data cleaning in Python, statistical testing, HTML, modeling, pipelines, cross-validation, and classifiers
 - **Theoretical Foundations of Data Science II (A)**
   - Mathematical data analysis and modeling, graph theory, and algorithmic solutions
+  - Top 10% of the class
 - **Data Structures/Algorithms for Data Science (B+)**
   - Encapsulation, ADT’s, interfaces, algorithms, complexity, and structures in Java
