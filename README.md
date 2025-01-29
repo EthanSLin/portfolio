@@ -13,13 +13,13 @@ Email: ethanlin1125@gmail.com
 
 Major: Data Science
 
-GPA: 3.83
+GPA: 3.86
 
 ## Work Experience
 - **Data Analyst** at SPACES of UC San Diego
-  - *August 2023 - Present*
+  - *August 2023 - December 2024*
 - **Computer Science Instructor** at Juni Learning
-  - *April 2023 - Present*
+  - *April 2023 - December 2024*
   - Executed advanced computer science lessons on AI, Data Science, Java, and Python for students aged K-12 over 1-on-1 Zoom meetings
   - Communicated weekly with parents to detail students' skill assessments and learning progress
   - Managed detailed records of each students' progress across various courses
